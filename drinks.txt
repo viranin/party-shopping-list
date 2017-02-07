@@ -1,0 +1,8 @@
+<DOCTYPE! HTML>
+<header>
+<h1> Drinks page</h1>
+</header>
+
+<body>
+<p> Drinks Summary</p>
+</body>

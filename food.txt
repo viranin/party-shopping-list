@@ -1,0 +1,8 @@
+<DOCTYPE! HTML>
+<header>
+<h1> Food page</h1>
+</header>
+
+<body>
+<p> Food Summary</p>
+</body>
